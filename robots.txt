@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodhiwasuen.github.io/sitemap.xml
